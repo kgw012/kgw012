@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!+kgw012+GitHub!&fontSize=50&fontAlignY=40&fontAlign=30)
 
-![kgw012's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgw012&show_icons=true&theme=buefy)
+![kgw012's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgw012&show_icons=true&theme=buefy&hide_title=False&count_private=True&hide_rank=True)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kgw012&repo=TIL)](https://github.com/kgw012/TIL)
 
 <!--
 **kgw012/kgw012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
