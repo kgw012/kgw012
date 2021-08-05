@@ -2,6 +2,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kgw012&repo=TIL)](https://github.com/kgw012/TIL)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kgw012&repo=GUMI1_ALGO_STUDY)](https://github.com/kgw012/GUMI1_ALGO_STUDY)
+
 <!--
 **kgw012/kgw012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
