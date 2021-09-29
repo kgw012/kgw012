@@ -1,5 +1,3 @@
-![kgw012's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgw012&show_icons=true&theme=buefy&hide_title=False&count_private=True&hide_rank=True)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kgw012&repo=TIL)](https://github.com/kgw012/TIL)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kgw012&repo=GUMI1_ALGO_STUDY)](https://github.com/kgw012/GUMI1_ALGO_STUDY)
