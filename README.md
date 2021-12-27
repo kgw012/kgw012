@@ -4,7 +4,7 @@
   
   * 뉴스를 스크랩하고 ML을 이용해 데이터를 분류, 스크랩해주는 프로젝트입니다.
   
-  * django와 aws(ec2, lambda)를 이용하여 RESTful한 서버를 구성할 계획입니다.
+  * django와 aws(ec2, lambda)를 이용하여 HTTP API를 구성할 계획입니다.
   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myejin&repo=news_scrapper_Django)](https://github.com/myejin/news_scrapper_Django)
   
@@ -12,7 +12,7 @@
 
   * discord bot api를 이용한 프로젝트입니다.
   
-  * django와 aws(ec2)를 이용하여 RESTful한 서버를 구성하였습니다.
+  * django와 aws(ec2)를 이용하여 HTTP API를 구성하였습니다.
   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kgw012&repo=discord_auction_bot)](https://github.com/kgw012/discord_auction_bot)
 
