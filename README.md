@@ -1,6 +1,14 @@
 ## project
 
-* **news_scrapper_Django**(진행중)
+* **StuDelivery**
+
+  * WebRTC를 이용하여 원격 스터디를 지원하며, 스터디를 하는데 필요한 커뮤니티 기능들을 지원하는 웹서비스 프로젝트입니다.
+
+  * React와 SpringBoot, openvidu(webrtc)를 이용한 서비스입니다.
+
+    [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=kgw012&repo=StuDelivery)](https://github.com/kgw012/StuDelivery)
+
+* **news_scrapper_Django**
   
   * 뉴스를 스크랩하고 ML을 이용해 데이터를 분류, 스크랩해주는 프로젝트입니다.
   
@@ -8,7 +16,7 @@
   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myejin&repo=news_scrapper_Django)](https://github.com/myejin/news_scrapper_Django)
   
-* **discord_auction_bot**(진행중)
+* **discord_auction_bot**
 
   * discord bot api를 이용한 프로젝트입니다.
   
@@ -20,7 +28,7 @@
 
 ## study
 
-* **GUMI1_ALGO_STUDY**(진행중)
+* **GUMI1_ALGO_STUDY**(종료)
 
   * SSAFY 동료들과 함께 진행하고 있는 알고리즘&자료구조 스터디입니다
   
